@@ -1,0 +1,138 @@
+PING 8.8.8.8 (8.8.8.8): 56 data bytes
+64 bytes from 8.8.8.8: icmp_seq=0 ttl=114 time=28.861 ms
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=114 time=25.908 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=114 time=49.725 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=114 time=24.325 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=114 time=55.733 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=114 time=66.512 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=5 ttl=114 time=22.153 ms
+Request timeout for icmp_seq 6
+64 bytes from 8.8.8.8: icmp_seq=7 ttl=114 time=104.120 ms
+64 bytes from 8.8.8.8: icmp_seq=8 ttl=114 time=37.610 ms
+64 bytes from 8.8.8.8: icmp_seq=9 ttl=114 time=22.537 ms
+64 bytes from 8.8.8.8: icmp_seq=10 ttl=114 time=29.023 ms
+64 bytes from 8.8.8.8: icmp_seq=10 ttl=114 time=29.121 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=11 ttl=114 time=29.770 ms
+64 bytes from 8.8.8.8: icmp_seq=11 ttl=114 time=33.101 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=12 ttl=114 time=19.835 ms
+64 bytes from 8.8.8.8: icmp_seq=12 ttl=114 time=19.922 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=13 ttl=114 time=59.059 ms
+64 bytes from 8.8.8.8: icmp_seq=13 ttl=114 time=59.141 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=14 ttl=114 time=31.118 ms
+64 bytes from 8.8.8.8: icmp_seq=14 ttl=114 time=31.204 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=15 ttl=114 time=40.635 ms
+64 bytes from 8.8.8.8: icmp_seq=15 ttl=114 time=40.724 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=16 ttl=114 time=233.039 ms
+64 bytes from 8.8.8.8: icmp_seq=17 ttl=114 time=20.446 ms
+64 bytes from 8.8.8.8: icmp_seq=17 ttl=114 time=25.989 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=18 ttl=114 time=21.314 ms
+64 bytes from 8.8.8.8: icmp_seq=19 ttl=114 time=23.647 ms
+64 bytes from 8.8.8.8: icmp_seq=20 ttl=114 time=41.069 ms
+64 bytes from 8.8.8.8: icmp_seq=20 ttl=114 time=41.156 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=21 ttl=114 time=22.920 ms
+64 bytes from 8.8.8.8: icmp_seq=21 ttl=114 time=28.663 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=21 ttl=114 time=32.068 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=21 ttl=114 time=32.124 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=22 ttl=114 time=37.411 ms
+64 bytes from 8.8.8.8: icmp_seq=23 ttl=114 time=32.447 ms
+64 bytes from 8.8.8.8: icmp_seq=24 ttl=114 time=26.428 ms
+64 bytes from 8.8.8.8: icmp_seq=25 ttl=114 time=26.889 ms
+64 bytes from 8.8.8.8: icmp_seq=26 ttl=114 time=45.760 ms
+64 bytes from 8.8.8.8: icmp_seq=27 ttl=114 time=28.675 ms
+64 bytes from 8.8.8.8: icmp_seq=28 ttl=114 time=19.701 ms
+64 bytes from 8.8.8.8: icmp_seq=29 ttl=114 time=32.945 ms
+64 bytes from 8.8.8.8: icmp_seq=30 ttl=114 time=40.845 ms
+64 bytes from 8.8.8.8: icmp_seq=31 ttl=114 time=21.064 ms
+64 bytes from 8.8.8.8: icmp_seq=32 ttl=114 time=39.345 ms
+64 bytes from 8.8.8.8: icmp_seq=33 ttl=114 time=34.301 ms
+64 bytes from 8.8.8.8: icmp_seq=34 ttl=114 time=20.079 ms
+64 bytes from 8.8.8.8: icmp_seq=35 ttl=114 time=20.306 ms
+64 bytes from 8.8.8.8: icmp_seq=36 ttl=114 time=29.933 ms
+64 bytes from 8.8.8.8: icmp_seq=37 ttl=114 time=24.862 ms
+64 bytes from 8.8.8.8: icmp_seq=38 ttl=114 time=21.233 ms
+64 bytes from 8.8.8.8: icmp_seq=39 ttl=114 time=34.615 ms
+64 bytes from 8.8.8.8: icmp_seq=40 ttl=114 time=40.127 ms
+64 bytes from 8.8.8.8: icmp_seq=41 ttl=114 time=40.882 ms
+64 bytes from 8.8.8.8: icmp_seq=42 ttl=114 time=26.131 ms
+64 bytes from 8.8.8.8: icmp_seq=43 ttl=114 time=20.081 ms
+64 bytes from 8.8.8.8: icmp_seq=44 ttl=114 time=32.114 ms
+64 bytes from 8.8.8.8: icmp_seq=45 ttl=114 time=35.713 ms
+64 bytes from 8.8.8.8: icmp_seq=46 ttl=114 time=171.016 ms
+64 bytes from 8.8.8.8: icmp_seq=47 ttl=114 time=33.724 ms
+64 bytes from 8.8.8.8: icmp_seq=48 ttl=114 time=30.748 ms
+64 bytes from 8.8.8.8: icmp_seq=49 ttl=114 time=33.700 ms
+64 bytes from 8.8.8.8: icmp_seq=50 ttl=114 time=20.183 ms
+64 bytes from 8.8.8.8: icmp_seq=51 ttl=114 time=27.844 ms
+64 bytes from 8.8.8.8: icmp_seq=52 ttl=114 time=19.741 ms
+64 bytes from 8.8.8.8: icmp_seq=53 ttl=114 time=25.508 ms
+64 bytes from 8.8.8.8: icmp_seq=54 ttl=114 time=33.182 ms
+64 bytes from 8.8.8.8: icmp_seq=55 ttl=114 time=32.234 ms
+64 bytes from 8.8.8.8: icmp_seq=56 ttl=114 time=27.560 ms
+64 bytes from 8.8.8.8: icmp_seq=57 ttl=114 time=36.013 ms
+64 bytes from 8.8.8.8: icmp_seq=58 ttl=114 time=25.478 ms
+64 bytes from 8.8.8.8: icmp_seq=59 ttl=114 time=42.571 ms
+64 bytes from 8.8.8.8: icmp_seq=60 ttl=114 time=30.427 ms
+64 bytes from 8.8.8.8: icmp_seq=61 ttl=114 time=26.167 ms
+64 bytes from 8.8.8.8: icmp_seq=62 ttl=114 time=39.955 ms
+64 bytes from 8.8.8.8: icmp_seq=63 ttl=114 time=21.468 ms
+64 bytes from 8.8.8.8: icmp_seq=64 ttl=114 time=18.072 ms
+64 bytes from 8.8.8.8: icmp_seq=65 ttl=114 time=37.238 ms
+64 bytes from 8.8.8.8: icmp_seq=66 ttl=114 time=19.039 ms
+64 bytes from 8.8.8.8: icmp_seq=67 ttl=114 time=27.712 ms
+64 bytes from 8.8.8.8: icmp_seq=68 ttl=114 time=50.951 ms
+64 bytes from 8.8.8.8: icmp_seq=69 ttl=114 time=38.002 ms
+64 bytes from 8.8.8.8: icmp_seq=70 ttl=114 time=50.932 ms
+64 bytes from 8.8.8.8: icmp_seq=71 ttl=114 time=36.077 ms
+64 bytes from 8.8.8.8: icmp_seq=72 ttl=114 time=22.252 ms
+64 bytes from 8.8.8.8: icmp_seq=73 ttl=114 time=28.689 ms
+64 bytes from 8.8.8.8: icmp_seq=74 ttl=114 time=30.729 ms
+64 bytes from 8.8.8.8: icmp_seq=75 ttl=114 time=38.321 ms
+64 bytes from 8.8.8.8: icmp_seq=76 ttl=114 time=35.222 ms
+64 bytes from 8.8.8.8: icmp_seq=77 ttl=114 time=22.124 ms
+64 bytes from 8.8.8.8: icmp_seq=78 ttl=114 time=28.774 ms
+64 bytes from 8.8.8.8: icmp_seq=79 ttl=114 time=16.971 ms
+64 bytes from 8.8.8.8: icmp_seq=80 ttl=114 time=36.347 ms
+64 bytes from 8.8.8.8: icmp_seq=81 ttl=114 time=30.843 ms
+64 bytes from 8.8.8.8: icmp_seq=82 ttl=114 time=24.883 ms
+64 bytes from 8.8.8.8: icmp_seq=83 ttl=114 time=34.642 ms
+64 bytes from 8.8.8.8: icmp_seq=84 ttl=114 time=26.709 ms
+64 bytes from 8.8.8.8: icmp_seq=85 ttl=114 time=30.144 ms
+64 bytes from 8.8.8.8: icmp_seq=86 ttl=114 time=35.378 ms
+64 bytes from 8.8.8.8: icmp_seq=87 ttl=114 time=32.941 ms
+64 bytes from 8.8.8.8: icmp_seq=88 ttl=114 time=31.252 ms
+64 bytes from 8.8.8.8: icmp_seq=89 ttl=114 time=32.366 ms
+64 bytes from 8.8.8.8: icmp_seq=90 ttl=114 time=32.048 ms
+64 bytes from 8.8.8.8: icmp_seq=91 ttl=114 time=33.372 ms
+64 bytes from 8.8.8.8: icmp_seq=92 ttl=114 time=30.306 ms
+64 bytes from 8.8.8.8: icmp_seq=93 ttl=114 time=21.021 ms
+64 bytes from 8.8.8.8: icmp_seq=94 ttl=114 time=34.033 ms
+64 bytes from 8.8.8.8: icmp_seq=95 ttl=114 time=23.395 ms
+64 bytes from 8.8.8.8: icmp_seq=96 ttl=114 time=30.331 ms
+64 bytes from 8.8.8.8: icmp_seq=97 ttl=114 time=50.972 ms
+64 bytes from 8.8.8.8: icmp_seq=98 ttl=114 time=26.353 ms
+64 bytes from 8.8.8.8: icmp_seq=99 ttl=114 time=23.378 ms
+64 bytes from 8.8.8.8: icmp_seq=100 ttl=114 time=63.247 ms
+64 bytes from 8.8.8.8: icmp_seq=101 ttl=114 time=33.939 ms
+64 bytes from 8.8.8.8: icmp_seq=102 ttl=114 time=48.698 ms
+64 bytes from 8.8.8.8: icmp_seq=103 ttl=114 time=29.492 ms
+64 bytes from 8.8.8.8: icmp_seq=104 ttl=114 time=24.300 ms
+64 bytes from 8.8.8.8: icmp_seq=105 ttl=114 time=39.328 ms
+64 bytes from 8.8.8.8: icmp_seq=106 ttl=114 time=31.851 ms
+64 bytes from 8.8.8.8: icmp_seq=107 ttl=114 time=26.941 ms
+64 bytes from 8.8.8.8: icmp_seq=108 ttl=114 time=25.780 ms
+64 bytes from 8.8.8.8: icmp_seq=109 ttl=114 time=33.055 ms
+64 bytes from 8.8.8.8: icmp_seq=110 ttl=114 time=26.824 ms
+64 bytes from 8.8.8.8: icmp_seq=111 ttl=114 time=26.573 ms
+64 bytes from 8.8.8.8: icmp_seq=112 ttl=114 time=21.924 ms
+64 bytes from 8.8.8.8: icmp_seq=113 ttl=114 time=39.643 ms
+64 bytes from 8.8.8.8: icmp_seq=114 ttl=114 time=26.444 ms
+64 bytes from 8.8.8.8: icmp_seq=115 ttl=114 time=33.601 ms
+64 bytes from 8.8.8.8: icmp_seq=116 ttl=114 time=40.049 ms
+64 bytes from 8.8.8.8: icmp_seq=117 ttl=114 time=30.857 ms
+64 bytes from 8.8.8.8: icmp_seq=117 ttl=114 time=30.944 ms (DUP!)
+64 bytes from 8.8.8.8: icmp_seq=118 ttl=114 time=22.320 ms
+64 bytes from 8.8.8.8: icmp_seq=119 ttl=114 time=39.043 ms
+
+--- 8.8.8.8 ping statistics ---
+120 packets transmitted, 119 packets received, +13 duplicates, 0.8% packet loss
+round-trip min/avg/max/stddev = 16.971/34.914/233.039/23.897 ms
